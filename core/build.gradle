@@ -1,3 +1,4 @@
 dependencies {
+    implementation "io.monix:monix_$scalaVersion:$monixVersion"
     implementation "com.avast.clients.rabbitmq:rabbitmq-client-extras-scalapb_$scalaVersion:8.6.7"
 }
