@@ -1,0 +1,3 @@
+rootProject.name = 'renovate-reproduction'
+
+include 'core'

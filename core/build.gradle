@@ -1,0 +1,3 @@
+dependencies {
+    implementation "com.avast.clients.rabbitmq:rabbitmq-client-extras-scalapb_$scalaVersion:$rabbitmqClientVersion"
+}

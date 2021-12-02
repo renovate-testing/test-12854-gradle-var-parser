@@ -1,0 +1,12 @@
+ext {
+    scalaVersion = '2.13'
+    rabbitmqClientVersion = '8.6.8'
+}
+
+subprojects {
+    apply plugin: 'scala'
+    
+    repositories {
+        mavenCentral()
+    }
+}
