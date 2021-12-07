@@ -1,6 +1,6 @@
 ext {
     scalaVersion = '2.13'
-    monixVersion = '3.3.0'
+    monixVersion = '3.4.0'
 }
 
 subprojects {
